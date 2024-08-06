@@ -5,3 +5,4 @@
   * APLICATIVO IDE DO ADUINO 
  */
 
+const add = () => { }
